@@ -1,10 +1,14 @@
 ---
 title: Accueil
 ---
-# mate / Chaton / Mathiou / Mathieu Mescam / Jean-Pierre / Louis (choisis un)
+# Mathieu Mescam
 
-Chargé d'Expérience Client le jour et écrivain torturé la nuit. 
+**Chargé d'Expérience Client** le jour et **écrivain torturé** la nuit. 
 
 Je travaille vite et je m'amuse quand je travaille.
 
-Retrouvez-moi sur le Fedivers : [toot.io/@mate](https://toot.io/@mate)
+Retrouvez-moi sur les réseaux : 
+
+- [toot.io/@mate](https://toot.io/@mate)
+- [patreon.com/mate_](https://www.patreon.com/mate_)
+-[https://git.sr.ht/~mate](git.sr.ht/~mate)
