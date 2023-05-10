@@ -11,4 +11,4 @@ Retrouvez-moi sur les réseaux :
 
 - [toot.io/@mate](https://toot.io/@mate)
 - [patreon.com/mate_](https://www.patreon.com/mate_)
--[https://git.sr.ht/~mate](git.sr.ht/~mate)
+- [https://git.sr.ht/~mate](git.sr.ht/~mate)
