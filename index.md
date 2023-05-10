@@ -1,6 +1,10 @@
 ---
 title: Accueil
 ---
-# L'Échappée Belle
+# mate / Chaton / Mathiou / Mathieu Mescam / Jean-Pierre / Louis (choisis un)
 
-L'Échappée Belle est **une association** qui a pour objet de soutenir et promouvoir des activités et des personnes qui travaillent autour de **valeurs de consentement, de bien commun et de prendre soin des personnes et de l’environnement**.
+Chargé d'Expérience Client le jour et écrivain torturé la nuit. 
+
+Je travaille vite et je m'amuse quand je travaille.
+
+Retrouvez-moi sur le Fedivers : [toot.io/@mate](https://toot.io/@mate)
