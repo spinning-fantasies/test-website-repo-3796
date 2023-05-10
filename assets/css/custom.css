@@ -2,6 +2,10 @@
     --couleur-primaire : #53606C;
 }
 
+stripe-buy-button {
+    position: center;
+}
+
 footer {
     display: none;
 }
