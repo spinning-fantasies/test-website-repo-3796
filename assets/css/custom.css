@@ -14,8 +14,9 @@ a {
   color: black;
 }
 
-img {
-    width: 210px;
+.BuyButton-container {
+  position: center;
+
 }
 
 footer {
