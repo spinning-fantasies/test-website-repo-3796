@@ -9,9 +9,7 @@ title: Accueil
 
 Je travaille vite et je m'amuse quand je travaille.
 
-Chez moi les nuages sont verts et l'herbe grise. Je raconte des histoires et je vois complètement flou.
-
-Retrouvez-moi sur les réseaux : 
+Chez moi les nuages sont verts et l'herbe grise. Je raconte des histoires et je vois complètement flou. Retrouvez-moi sur les réseaux : 
 - [toot.io/@mate](https://toot.io/@mate)
 - [patreon.com/_mate](https://www.patreon.com/_mate)
 - [git.sr.ht/~mate](https://git.sr.ht/~mate)
