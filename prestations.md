@@ -5,7 +5,7 @@ title: Prestations
   src="https://js.stripe.com/v3/buy-button.js">
 </script>
 
-## Plume au service des clients
+## Plume au Service des Clients
 
 Confiez-moi les rennes de [l'Expérience Client](https://livre.jonathanlefevre.com/) de votre entreprise.
 
