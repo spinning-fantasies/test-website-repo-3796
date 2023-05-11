@@ -14,9 +14,11 @@ Chez moi les nuages sont verts et l'herbe grise. Je raconte des histoires et je 
 - [patreon.com/_mate](https://www.patreon.com/_mate)
 - [git.sr.ht/~mate](https://git.sr.ht/~mate)
 
-Si ça vous dit, jetez donc un œil sur ma dernière publication sur Patreon :
+Si ça vous dit, jetez donc un œil sur mes dernières publications sur Patreon :
 
-https://www.patreon.com/posts/candidatures-82860571
+- [Candidatures marrantes](https://www.patreon.com/posts/candidatures-82860571)
+- [Un Présent indésirable](https://www.patreon.com/posts/un-present-82692647)
+- [La Déconstruction](https://www.patreon.com/posts/la-82861438)
 
 Bonne lecture 🤓
 
