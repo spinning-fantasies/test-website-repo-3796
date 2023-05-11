@@ -3,8 +3,6 @@ title: Accueil
 ---
 # Mathieu Mescam
 
-![Photo de profil de Mathieu Mescam](https://github.com/spinning-fantasies/test-website-repo-3796/blob/main/images/profile.jpg?raw=true)
-
 **Chargé d'Expérience Client** le jour et **écrivain torturé** la nuit. 
 
 Je travaille vite et je m'amuse quand je travaille.
