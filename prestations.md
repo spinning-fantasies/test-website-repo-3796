@@ -7,9 +7,7 @@ title: Prestations
 
 ## Plume au Service des Clients
 
-Confiez-moi les rennes de [l'Expérience Client](https://livre.jonathanlefevre.com/) de votre entreprise.
-
-Que ce soit par mail, par téléphone ou par le logiciel de relation clients que vous avez choisi, assurez-vous d'une gestion humaine et empathique de la relation avec vos clients.
+Confiez-moi les rennes de [l'Expérience Client](https://livre.jonathanlefevre.com/) de votre entreprise. Que ce soit par mail, par téléphone ou par le logiciel de relation clients que vous avez choisi, assurez-vous d'une gestion humaine et empathique de la relation avec vos clients.
 
 <stripe-buy-button
   buy-button-id="buy_btn_1N6ccdCxYmitaiAne7C5Za6X"
