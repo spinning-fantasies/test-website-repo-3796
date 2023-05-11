@@ -3,12 +3,12 @@ title: Accueil
 ---
 # Mathieu Mescam
 
-![Photo de profil de Mathieu Mescam](https://github.com/spinning-fantasies/test-website-repo-3796/blob/main/images/profile.jpg?raw=true) **Chargé d'Expérience Client** le jour, **Écrivain Torturé** la nuit. 
+![Photo de profil de Mathieu Mescam](https://github.com/spinning-fantasies/test-website-repo-3796/blob/main/images/profile.jpg?raw=true)
 
+**Chargé d'Expérience Client** le jour, **Écrivain Torturé** la nuit. 
 Je travaille vite et je m'amuse quand je travaille.
 
-Chez moi les nuages sont verts et l'herbe grise. 
-Je raconte des histoires et je vois complètement flou.
+Chez moi les nuages sont verts et l'herbe grise. Je raconte des histoires et je vois complètement flou.
 
 Retrouvez-moi sur les réseaux : 
 
