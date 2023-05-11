@@ -27,7 +27,7 @@ Restez concentré sur votre cœur de métier et donnez-moi une liste de prospect
 
 ## Prospection par téléphone
 
-Restez concentré sur votre cœur de métier et donnez-moi une liste de prospects. Je me charge de démarcher vos prospects et d'obtenir un maximum de rendez-vous pour votre équipe de commerciaux.
+Restez concentré sur votre cœur de métier et donnez-moi une [liste de prospects](https://fr.wikipedia.org/wiki/Prospection_(mercatique)). Je me charge de démarcher vos prospects et d'obtenir un maximum de rendez-vous pour votre équipe de commerciaux.
 
 <stripe-buy-button
   buy-button-id="buy_btn_1N6caxCxYmitaiAn0w5MukHN"
@@ -37,7 +37,7 @@ Restez concentré sur votre cœur de métier et donnez-moi une liste de prospect
 
 ## Sourcing
 
-Je bricole des sites web depuis bientôt 15 ans. Fort de cette expérience, j'utilise des outils comme **[Python](https://fr.wikipedia.org/wiki/Python_(langage))** ou [Node.js](https://fr.wikipedia.org/wiki/Node.js) pour _[scrapper](https://fr.wikipedia.org/wiki/Web_scraping)_ des informations sur différents sites d'annuaire. Ces techniques me permettent de générer des listes de prospects de manière très efficiente.
+Je bricole des sites web depuis bientôt 15 ans. Fort de cette expérience, j'utilise des outils comme **[Python](https://fr.wikipedia.org/wiki/Python_(langage))** ou [Node.js](https://fr.wikipedia.org/wiki/Node.js) pour _[scrapper](https://fr.wikipedia.org/wiki/Web_scraping)_ des informations sur différents sites d'annuaire. Ces techniques me permettent de [générer des listes de prospects](https://fr.wikipedia.org/wiki/G%C3%A9n%C3%A9ration_de_leads) de manière très efficiente.
 
 <stripe-buy-button
   buy-button-id="buy_btn_1N6chiCxYmitaiAnBffy9BX1"
