@@ -1,11 +1,19 @@
 :root {
-    --couleur-primaire : #53606C;
+    --couleur-primaire : white;
 }
 
-stripe-buy-button {
-    position: center;
+header a {
+  color: black;
+}
+
+h1 {
+  color: black;
+}
+
+a {
+  color: black;
 }
 
 footer {
-    display: none;
+  display: none;
 }
