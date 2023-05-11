@@ -7,7 +7,9 @@ title: Prestations
 
 ## Plume au service des clients
 
-Confiez-moi les rennes de [l'Expérience Client](https://livre.jonathanlefevre.com/) de votre entreprise, que ce soit par email, par téléphone ou par le logiciel de relation clients que vous avez choisi et assurez-vous d'une gestion humaine et empathique de la relation avec vos clients
+Confiez-moi les rennes de [l'Expérience Client](https://livre.jonathanlefevre.com/) de votre entreprise.
+
+Que ce soit par mail, par téléphone ou par le logiciel de relation clients que vous avez choisi, assurez-vous d'une gestion humaine et empathique de la relation avec vos clients.
 
 <stripe-buy-button
   buy-button-id="buy_btn_1N6ccdCxYmitaiAne7C5Za6X"
@@ -17,7 +19,7 @@ Confiez-moi les rennes de [l'Expérience Client](https://livre.jonathanlefevre.c
 
 ## Prospection par e-mail
 
-Restez concentré sur votre cœur de métier et donnez-moi une liste de prospects. Je me charge de lancer une campagne email et de m'assurer qu'un maximum de _leads_ se transforment en clients sur le long terme.
+Restez concentré sur votre cœur de métier et donnez-moi une [liste de prospects](https://fr.wikipedia.org/wiki/Prospection_(mercatique))s. Je me charge de lancer une campagne email et de m'assurer qu'un maximum de _leads_ se transforment en clients sur le long terme.
 
 <stripe-buy-button
   buy-button-id="buy_btn_1N6caxCxYmitaiAn0w5MukHN"
