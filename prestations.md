@@ -17,7 +17,7 @@ Confiez-moi les rennes de [l'Expérience Client](https://livre.jonathanlefevre.c
 
 ## Prospection par e-mail
 
-Restez concentré sur votre cœur de métier et donnez-moi une [liste de prospects](https://fr.wikipedia.org/wiki/Prospection_(mercatique))s. Je me charge de lancer une campagne email et de m'assurer qu'un maximum de _leads_ se transforment en clients sur le long terme.
+Restez concentré sur votre cœur de métier et donnez-moi une [liste de prospects](https://fr.wikipedia.org/wiki/Prospection_(mercatique)). Je me charge de lancer une campagne email et de m'assurer qu'un maximum de _leads_ se transforment en clients sur le long terme.
 
 <stripe-buy-button
   buy-button-id="buy_btn_1N6caxCxYmitaiAn0w5MukHN"
