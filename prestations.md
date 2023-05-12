@@ -27,7 +27,7 @@ Restez concentré.e sur votre cœur de métier et donnez-moi une [liste de prosp
 
 ## Prospection par téléphone
 
-Restez concentré.e sur votre cœur de métier et donnez-moi une [liste de prospects](https://fr.wikipedia.org/wiki/Prospection_(mercatique)). Je me charge du démarchage et d'obtenir un maximum de rendez-vous pour votre équipe de commerciaux.
+Restez concentré.e sur votre cœur de métier et donnez-moi une [liste de prospects](https://fr.wikipedia.org/wiki/Prospection_(mercatique)). Je me charge du démarchage et d'obtenir un maximum de rendez-vous pour votre équipe commerciale.
 
 <stripe-buy-button
   buy-button-id="buy_btn_1N6caxCxYmitaiAn0w5MukHN"
