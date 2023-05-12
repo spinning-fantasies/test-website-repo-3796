@@ -5,7 +5,7 @@ title: Accueil
 
 ![Photo de profil de Mathieu Mescam](https://github.com/spinning-fantasies/test-website-repo-3796/blob/main/images/profile.jpg?raw=true)
 
-**Chargé d'Expérience Client** le jour, **Écrivain Torturé** la nuit. 
+**Chargé d'Expérience Client** le jour, **Écrivain en devenir** la nuit. 
 
 Je travaille vite et je m'amuse quand je travaille.
 
