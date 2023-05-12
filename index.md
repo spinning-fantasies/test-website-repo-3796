@@ -12,7 +12,7 @@ Je travaille vite et je m'amuse quand je travaille.
 Chez moi les nuages sont verts et l'herbe grise. Retrouvez-moi sur les réseaux : 
 - [toot.io/@mate](https://toot.io/@mate)
 - [patreon.com/_mate](https://www.patreon.com/_mate)
-- [git.sr.ht/~mate](https://git.sr.ht/~mate)
+- [write.tedomum.net/mate/](https://write.tedomum.net/mate/)
 
 Si ça vous dit, jetez donc un œil à mes dernières publications sur Patreon :
 
