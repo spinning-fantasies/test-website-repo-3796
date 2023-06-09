@@ -14,11 +14,8 @@ a {
   color: black;
 }
 
-.BuyButton-container {
-  position: center;
 
-}
 
-footer {
+footer, .skip-links  {
   display: none;
 }
