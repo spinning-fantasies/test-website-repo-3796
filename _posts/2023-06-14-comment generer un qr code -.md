@@ -11,7 +11,7 @@ Je me suis largement éloigné du développement logiciel depuis ce temps-là, m
 
 J'ai donc rapidement effectué une recherche sur [Microsoft GitHub](soldair/node-qrcode), la plateforme d'hébergement de projets Open Source la plus populaire du moment, pour trouver un outil qui me permettrait de générer facilement un QRCode. Je suis tombé sur [soldair/node-qrcode](https://github.com/soldair/node-qrcode), le projet ayant le plus de _stars_ sur GitHub et mis à jour il y a seulement quelques semaines, signe que le projet est toujours maintenu.
 
-SOn utilisation est très simple. Pour l'installer, il suffit d'ouvrir son émulateur de terminal préféré et tapper :
+Son utilisation est très simple. Pour l'installer, il suffit d'ouvrir son émulateur de terminal préféré et tapper :
 
 ```
 npm install -g qrcode
