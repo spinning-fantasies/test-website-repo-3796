@@ -3,9 +3,7 @@ title: Comment générer un QR Code ?
 ---
 ## Le contexte
 
-Aujourd'hui on m'a demandé si c'était facile de "créer un QRCode qui oriente vers une page web". 
-
-Ça m'a ramené 10 ans en arrière à l'époque où je travaillais avec [Baptiste Jamin](https://jam.in), [Erwan Maro](https://fr.linkedin.com/in/erwan-maro-2454321b9), [Nicolas Ha]https://nicolas-ha.com/, et [Quentin de Quelen](https://fr.linkedin.com/in/quentin-de-quelen-4241a865) sur une solution d'authentification sans contact, *Scan2Auth*.
+Aujourd'hui on m'a demandé si c'était facile de "créer un QRCode qui oriente vers une page web". Ça m'a ramené 10 ans en arrière à l'époque où je travaillais avec [Baptiste Jamin](https://jam.in), [Erwan Maro](https://fr.linkedin.com/in/erwan-maro-2454321b9), [Nicolas Ha](https://nicolas-ha.com/, et [Quentin de Quelen](https://fr.linkedin.com/in/quentin-de-quelen-4241a865) sur une solution d'authentification sans contact, **Scan2Auth**.
 
 Je me suis largement éloigné du développement logiciel depuis ce temps-là, mais j'ai gardé l'habitude d'utiliser des produits [Libres et Open Source](https://fr.wikipedia.org/wiki/Free/Libre_Open_Source_Software) pour mes besoins divers.
 
