@@ -1,5 +1,5 @@
 ---
-title: Comment générer un QR Code ? (2023)
+title: Comment générer un QR Code ?
 ---
 ## Le contexte
 
