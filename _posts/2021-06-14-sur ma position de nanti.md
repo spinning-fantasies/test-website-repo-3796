@@ -1,5 +1,5 @@
 ---
-title: Sur ma position de nanti (2021)
+title: Sur ma position de nanti
 ---
 J'ai lu l'an passé [La nausée](https://fr.wikipedia.org/wiki/La_Naus%C3%A9e), de Jean-Paul Sartre. J'en ai extrait cette citation qui me permet de m'identifier facilement au héros :
 
