@@ -1,5 +1,5 @@
 ---
-title: Candidatures marrantes (2020)
+title: Candidatures marrantes
 ---
 **tl ; pl**
 
